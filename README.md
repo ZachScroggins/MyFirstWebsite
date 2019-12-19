@@ -1,5 +1,5 @@
 # MyWebsite
-My personal website
+My personal website. Built in Visual Studio Code with HTML5, CSS3, Bootstrap4, JavaScript, jQuery, typed.js, and animate.css.
 
 http://zachscroggins.com/
 
